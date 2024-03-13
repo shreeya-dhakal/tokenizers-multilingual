@@ -3,6 +3,5 @@ data/aya_dataset_segments.csv
 data/aya_dataset_features_large.csv
 
 scripts/
-vocab/
 data/.DS_Store
 .DS_Store
