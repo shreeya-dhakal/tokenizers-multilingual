@@ -1,0 +1,12 @@
+datasets==2.18.0
+grapheme==0.6.0
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+psutil==5.9.8
+pycountry==23.12.11
+seaborn==0.13.2
+streamlit==1.31.1
+tiktoken==0.6.0
+tqdm==4.66.2
+transformers==4.38.2
