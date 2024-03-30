@@ -1,6 +1,8 @@
 data/aya_dataset_features_amharic.csv
 data/aya_dataset_segments.csv
 data/aya_dataset_features_large.csv
+data/udhr-xml/
+data/udhr_combined.csv
 
 scripts/
 data/.DS_Store
